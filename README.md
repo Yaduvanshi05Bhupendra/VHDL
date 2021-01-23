@@ -1,4 +1,4 @@
-<h1 align="center">Verilog Practice and Projects</h1>
+<h1 align="center">VHDL Practice and Projects</h1>
 <br/>
 <p align="center">
   <img src="https://www.meldium.com/wp-content/uploads/2018/11/FpgaServices.png" alt="perl" width="60" height="60"/>
@@ -7,12 +7,12 @@
 
 ## Index
 
-* [Verilog-Topics](#Verilog-Topics)
-    * [Verilog-HDL-Syntax-And-Semantics](#Verilog-HDL-Syntax-And-Semantics)
+* [VHDL-Topics](#VHDL-Topics)
+    * [VHDL-HDL-Syntax-And-Semantics](#VHDL-HDL-Syntax-And-Semantics)
     * [Gate-Level-Modeling](#Gate-Level-Modeling)
     * [User-Defined-Primitives](#User-Defined-Primitives)
-    * [Verilog-Operators](#Verilog-Operators)
-    * [Verilog-Behavioral-Modeling](#Verilog-Behavioral-Modeling)
+    * [VHDL-Operators](#VHDL-Operators)
+    * [VHDL-Behavioral-Modeling](#VHDL-Behavioral-Modeling)
     * [Procedural-Timing-Control](#Procedural-Timing-Control)
     * [Task-And-Functions](#Task-And-Functions)
     * [System-Task-And-Function](#System-Task-And-Function)
@@ -22,7 +22,7 @@
     * [Compiler-Directives](#Compiler-Directives)
     
     
-* [Verilog-Mini-Projects](#Verilog-Mini-Projects)
+* [VHDL-Mini-Projects](#VHDL-Mini-Projects)
     * [Combinational-Circuit](#Combinational-Circuit)
        * [Half-Adder](#Half-Adder)
        * [Full-Adder](#Full-Adder)
@@ -32,21 +32,21 @@
        * [D-Flip-Flop](#D-Flip-Flop)
        * [T-Flip-Flop](#T-Flip-Flop)
 
-* [Verilog-Major-Projects](#Verilog-Major-Projects)
+* [VHDL-Major-Projects](#VHDL-Major-Projects)
 
 * [Misc](#Misc)
-* [Verilog-Installation](#Verilog-Installation)
+* [VHDL-Installation](#VHDL-Installation)
 * [Credits](#Credits)
 * [Contributing](#Contributing)
 * [Contact-Info](#Contact-Info)
 * [License](#License)
 
-## Verilog-Topics
-### Verilog-HDL-Syntax-And-Semantics
+## VHDL-Topics
+### VHDL-HDL-Syntax-And-Semantics
 ### Gate-Level-Modeling
 ### User-Defined-Primitives
-### Verilog-Operators
-### Verilog-Behavioral-Modeling
+### VHDL-Operators
+### VHDL-Behavioral-Modeling
 ### Procedural-Timing-Control
 ### Task-And-Functions
 ### System-Task-And-Function
@@ -56,7 +56,7 @@
 ### Compiler-Directives
     
     
-## Verilog-Mini-Projects
+## VHDL-Mini-Projects
 ### Combinational-Circuit
 #### Half-Adder
 #### Full-Adder
@@ -66,14 +66,14 @@
 #### D-Flip-Flop
 #### T-Flip-Flop
 
-## Verilog-Major-Projects
+## VHDL-Major-Projects
 
 
 Note: I'm beginner please suggest any improvement :grin:
 
 ## Misc
 
-## Verilog-Installation
+## VHDL-Installation
 
 ## Credits
 
