@@ -79,7 +79,7 @@ Note: I'm beginner please suggest any improvement :grin:
 
 ## Contributing
 
-Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/Yaduvanshi05Bhupendra/Verilog/issues).
+Contributions are welcome!  For bug reports or requests please [submit an issue](https://github.com/Yaduvanshi05Bhupendra/VHDL/issues).
 
 ## Contact-Info
 
